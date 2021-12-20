@@ -8,5 +8,5 @@ En el taller se verán los siguientes contenidos:
 - Procesos ETL: laboratorios.
 
 ## Promotores
-IEEE CIS Ecuador
-UPS - Carrera de Computación (GYE)
+- IEEE CIS Ecuador
+- UPS - Carrera de Computación (GYE)
